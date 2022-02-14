@@ -77,7 +77,7 @@ class _WebScreen4State extends State<WebScreen4> {
                     height: 150,
                     child: new WishingCard(
                       word:
-                          'Hey, you are the person that I admire the most. I know where you started, felt what your feelings, and know what pain that you takes. But, you always amaze me. At the end, like you said, we never know what will happen in future. At least, I wish a good things will always comes to us.',
+                          'Hi Dilah, remember first time that we meet? I look at you, and guess what? I thing you\'re a special women that I ever seen. After that meet, I got more curious about you. And after our second meet, I realize that I\'m right. Last but not least, I hope, I can better to know you and hope a good things comes to us. I know it\'s to late to give you this, but hope you like it.',
                     ),
                   ),
                 ),
